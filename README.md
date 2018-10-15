@@ -33,12 +33,15 @@ Bootstrap is a free front-end framework for developing responsive websites. It i
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
   
-  - Since Bootstrap is "mobile-first", you also need to include the following line of code into the header section:
+  - Since Bootstrap is "mobile-first", you also need to include the following line of code into the header section...
   
   
           <meta name="viewport" content="width=device-width, initial-scale=1">
           
-          
+  
+       This will scale the webpage to fit the size of the screen of the device viweing it.
+  
+  
   ### Fundamentals of Bootstrap
   
   
