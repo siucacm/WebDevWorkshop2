@@ -35,7 +35,7 @@ Bootstrap is a free front-end framework for developing responsive websites. It i
   
           <meta name="viewport" content="width=device-width, initial-scale=1">
           
-       This will scale the webpage to fit the size of the screen of the device viweing it.
+       This will scale the webpage to fit the size of the screen of the device viewing it.
   
   
   ### Fundamentals of Bootstrap
